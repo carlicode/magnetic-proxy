@@ -2,6 +2,16 @@
 
 Este proyecto demuestra cómo usar **Magnetic Proxy** para hacer scraping de productos de manera ética y legal, utilizando una arquitectura modular y reutilizable.
 
+## 🎁 Código de Descuento
+
+**¡Obtén 30% de descuento en todos los planes de Magnetic Proxy!**
+
+- **Código**: `CARLICODE`
+- **Beneficio**: 30% off durante 6 meses
+- **Restricción**: Solo para usuarios nuevos
+
+Usa el código `CARLICODE` al registrarte en [Magnetic Proxy](https://magneticproxy.com) para obtener el descuento.
+
 ## 📁 Estructura del Proyecto
 
 ```
@@ -109,6 +119,18 @@ export MAGNETIC_PROXY_PORT="443"                   # Opcional
 ### Opción 3: Configuración Manual en el Código
 
 Puedes editar directamente `examples/product_scraper.py` y modificar las credenciales en la función `main()` (líneas 48-51).
+
+## 🎁 Código de Descuento
+
+**¡Obtén 30% de descuento en todos los planes de Magnetic Proxy!**
+
+- **Código**: `CARLICODE`
+- **Beneficio**: 30% off durante 6 meses
+- **Restricción**: Solo para usuarios nuevos
+
+Usa el código `CARLICODE` al registrarte en [Magnetic Proxy](https://magneticproxy.com) para obtener el descuento.
+
+---
 
 ## 📖 Uso
 
@@ -233,6 +255,16 @@ pip install -r requirements.txt
 - `beautifulsoup4`: Para parsear HTML
 - `lxml`: Parser rápido para BeautifulSoup
 - `python-dotenv`: Para cargar variables de entorno desde archivo `.env`
+
+## 🎁 Código de Descuento
+
+**¡Obtén 30% de descuento en todos los planes de Magnetic Proxy!**
+
+- **Código**: `CARLICODE`
+- **Beneficio**: 30% off durante 6 meses
+- **Restricción**: Solo para usuarios nuevos
+
+Usa el código `CARLICODE` al registrarte en [Magnetic Proxy](https://magneticproxy.com) para obtener el descuento.
 
 ## 🎬 Demo en Video
 
